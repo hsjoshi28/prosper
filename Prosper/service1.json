@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prosper-db",
+  "private_key_id": "72f75cba2bcd4b7f945a502d574466c4bcabfb63",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/MckCeZkBp8dL\nEYoidDgFh/LcdOE51ycHEFfTkopF3StzU7kNVNDh6Vk8Bk7/87MdqI4ZBPNFXfw9\n6Pywto6tHlAMy1cuIbGb7cAvt5cl3h9mWC3Inzrc/s8D1JMBoaNWAbp2ayr+0p6l\nh4CznNRToDmIO12X4mWVKO/2F7Kd4IEVpBWkU0G1C08QU/ZoAIy1zjAEVrVZ52hd\n96n4Gj57Jc3E2Zh53edy93YewnSr86kdkUaLpr4DcniuoAbKRtgI7xVZHduHT69C\nvpYXj/sxX7M5zX6vISGymMXEzuHch5O3VTtG/B52Ne0FgjFVnRIqLRiouCgNIQJm\ntsVekHy9AgMBAAECggEACwF2JS7TuG0sgy04yt/uw56+Q6N0vYwdgoIV1Cd4zym6\nkRJuMg7CUWbJzLM+Q+yG0Hu95kHLMSCGXxf0x8VSdDOs/veLhqvI2gV3DSgfyr29\nB/qmdAh6bnM6fmlzpuHjkZVa4usrV+zO1g91QKGT9VZhSW7FZfNRzqLDIWLe1MiY\njDbHTzBGpZasayII36rVjknFxckeubjPa8uhI2qKOJfKlFnT6MPkRvY7kqJaFV2E\nM7e/2vR1yMgzIuojG6W2N6Qql8yKhK2W5wNFW0EX5a+iJ9Yh1Qcm9GplLH5lGMDV\nFMqi+j/vLfjyA3vGB0ardkS77XIoyg7EoqBngiQJIQKBgQDtymaix1GFZCurq4AG\nrsXFsjV9myMfxJPIxc6p6T+xuaAGSFaUH5ruJmDxb5RZq25loKg/vFfmUDsLB1lH\ndaneQj4AcIjDvZuIYbYoMlmAElfLLwYe8mvhOVyLLek9rOxbkRMFgxIDIxqZworK\nd6mqCuBnZ3x0c3Hwnfyf5M4SsQKBgQDN1ew4IhT8JaAWXGqeNehHbgu29B4BFWAI\nMVDN6CC1DjP2gNxwLM8rL5PNM4LhlAGlQfGSargCMpcDlMzNZF5rHIq5o8w1De3c\nZXLxkzU/ywTLrcqwCbrImFvpxru7YkSs/r/myNccYf5Q9Y2bqIgsLC35AQg/gwx/\nuUCigPMVzQKBgGroufZreKppW/0F0Tyv7TkyIzyCuGr6/Zqh3IWl2b40/85zTYGx\nJ/30gVdrXB5opezJK3vkWPyyi6kst6YaL7I+xBN8hPDEWZ4amERARt7+4Dv4u17E\njV4oZQQqMxhIm8ebVRsAT+PbL4V74tyeqkhKNZQoAdt1X//XeBIHU+MxAoGAbJNt\nWWbQ/vix61mwe+gfsJ4h284FjbjCwU+SOis6JYdqbZsnrJxWY4djRZjobyltfMi+\nLufQTIh3FFKHfch17bZOjwISE+JXGC0DZt6p9g6XZwEzq4xWVL3ZrgVAveVmKILw\no0JKBhTC293LZtKNkg9z6KdcvHPaQf1sVMwEbfkCgYBe2y8naQ1gWedB7J8jwfEv\nY/BwsPrVQvLnf5T9cZcNLljSl3EbifJsPrxWCbsy2ZxNxDBENWGg60AE8e8XC34u\nlx9w/zlm7gZNnlycjldrUd/5/tB5CrKZGQgWuK4TBqi1fkEAb2C1BhfCrGOZ/1Ha\nsu1xB5QkunZTgl477QlYxg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yvrwv@prosper-db.iam.gserviceaccount.com",
+  "client_id": "110999548085358405600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yvrwv%40prosper-db.iam.gserviceaccount.com"
+}
