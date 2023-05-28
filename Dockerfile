@@ -6,7 +6,7 @@ WORKDIR /app
 
 # Copy the project's pom.xml and build files to the container
 COPY Prosper/pom.xml .
-COPY src ./src
+COPY Prosper/src ./src
 
 # Build the application
 RUN mvn clean package
