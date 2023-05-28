@@ -5,7 +5,7 @@ FROM maven:3.8.3-openjdk-11-slim AS build
 WORKDIR /app
 
 # Copy the project's pom.xml and build files to the container
-COPY pom.xml .
+COPY Prosper/pom.xml .
 COPY src ./src
 
 # Build the application
