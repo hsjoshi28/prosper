@@ -5,7 +5,7 @@ FROM adoptopenjdk:11-jdk-hotspot
 WORKDIR /app
 
 # Copy the packaged Spring Boot JAR file to the container
-COPY target/Prosper-0.0.1-SNAPSHOT.war .
+COPY Prosper/target/Prosper-0.0.1-SNAPSHOT.war .
 
 # Expose the default Spring Boot port
 EXPOSE 8080
