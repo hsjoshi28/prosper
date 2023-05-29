@@ -20,8 +20,8 @@ import java.time.LocalDateTime;
 @Service
 public class TwiloService {
 	
-	private  final String ACCOUNT_SID = <Account_SID>;
-    public  final String AUTH_TOKEN = <Account_Token>;
+	private  final String ACCOUNT_SID = "<Account_SID>";
+    public  final String AUTH_TOKEN = "<Account_Token>";
     
     private final String  TOPIC_DESTINATION = "/topic/sms";
     
