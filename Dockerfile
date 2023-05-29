@@ -18,7 +18,7 @@ FROM adoptopenjdk:11-jre-hotspot
 WORKDIR /app
 
 # Copy the built JAR file from the build stage to the runtime container
-COPY --from=build /app/target/your-app.jar app.jar
+COPY --from=build /app/target/Prosper-0.0.1-SNAPSHOT.war
 
 # Expose the default Spring Boot port
 EXPOSE 8080
